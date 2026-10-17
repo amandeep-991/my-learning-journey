@@ -4,3 +4,4 @@
 - Practice programming
 - Build real projects
 - Track my progress
+- Learn how to collaborate using GitHub
